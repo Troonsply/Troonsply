@@ -12,5 +12,5 @@
 <img src="https://komarev.com/ghpvc/?Troonsply&style=flat-square&color=blue" alt=""/>
 <h1 align="center">
   Hi! I'm Katya
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlobWl6aWEyN2J3NDJybHVkMHVpNHBjNHp5dm1ha3J1ZXppeHY2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MFPEY2iT4D370VCRHO/giphy.gif" width="70px" height="20px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
