@@ -5,7 +5,6 @@
   <a href="https://www.linkedin.com/in/katerina-siavris/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <div width="2"></div>
   <a href="https://habr.com/ru/users/Troonsply/">
     <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white" alt="LinkedIn Habr"/>
   </a>
