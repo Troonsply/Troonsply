@@ -43,5 +43,5 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-### :fire: My Stats :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Troonsply&theme=github_dark_dimmed&hide=javascript,html)
+<!-- ### :fire: My Stats :
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Troonsply&theme=github_dark_dimmed&hide=javascript,html)-->
