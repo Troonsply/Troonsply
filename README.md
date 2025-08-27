@@ -17,7 +17,7 @@
 
 ### :woman_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :computer: I’m a Frontend Developer with 4 years of experience, specializing in React and TypeScript.
+- :computer: I’m a Frontend Developer with 6 years of experience, specializing in React and TypeScript.
 
 - :seedling: I enjoy creating intuitive and dynamic web interfaces, constantly learning and staying updated on frontend trends.
 
